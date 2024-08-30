@@ -16,9 +16,11 @@ I'm a 19-year-old Computer Science student at October 6 University (Level 2). Pa
 - Projects that involve **backend API development** or **React frontend**.
 
 ### 💬 Ask me about
-- **Backend development** with **Express.js**, **Nest.js**, and **MongoDB**.
+- **Backend development** with **Express.js** and **Nest.js**.
 - **Frontend frameworks** like **React.js** and **Next.js**.
-- **Libraries** like **Tanstack Query**, **Redux Toolkit**, and **React MUI**.
+- **Database management** with **MongoDB**.
+- **Component frameworks** like **React MUI**.
+- **Libraries** like **Tanstack Query** and **Redux Toolkit**.
 
 ### 📫 How to reach me
 - Email: youssef.an.dev@gmail.com
